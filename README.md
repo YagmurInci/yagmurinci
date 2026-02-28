@@ -29,9 +29,12 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/YagmurInci?style=for-the-badge&color=30A3DC" alt="Followers">
-  <img src="https://img.shields.io/github/languages/top/YagmurInci/c-dili-rnek-kodlar?style=for-the-badge&color=blueviolet" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/YagmurInci/c-dili-rnek-kodlar?style=for-the-badge&color=brightgreen" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/YagmurInci/c-dili-rnek-kodlar?style=for-the-badge&color=orange" alt="License">
+  
+  <img src="https://img.shields.io/github/languages/top/YagmurInci/c-dili-ornek-kodlar?style=for-the-badge&color=blueviolet" alt="Top Language">
+  
+  <img src="https://img.shields.io/github/last-commit/YagmurInci/c-dili-ornek-kodlar?style=for-the-badge&color=brightgreen" alt="Last Commit">
+  
+  <img src="https://img.shields.io/github/license/YagmurInci/c-dili-ornek-kodlar?style=for-the-badge&color=orange" alt="License">
 </p>
 
 ---
